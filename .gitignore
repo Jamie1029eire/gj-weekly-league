@@ -1,0 +1,24 @@
+# Local demo and setup material (not part of the published site)
+/screenshots/
+/supabase/
+/README.md
+
+# Dependencies and local environment secrets
+/node_modules/
+.env
+.env.*
+!.env.example
+*.local
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.tmp
+*.bak
+*.log

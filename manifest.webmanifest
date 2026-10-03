@@ -1,0 +1,13 @@
+{
+  "name": "G&J Weekly League",
+  "short_name": "G&J League",
+  "description": "A private weekly league for Jamie and Georgia",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#090b10",
+  "theme_color": "#090b10",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
